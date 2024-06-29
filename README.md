@@ -1,7 +1,7 @@
 - 👋 Olá, sou a Arianne Uehara.
 - 👀 Estou no momento manipulando as linguagens de SQL e HTML e CSS.
 - 👩🏻‍💻 LinkedIn: www.linkedin.com/in/arianneuehara .
-- 📚 Previsão de formação em Jul/2024.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas. Previsão de formação em Jul/2024.
   
 
 
